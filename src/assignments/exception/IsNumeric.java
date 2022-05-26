@@ -1,4 +1,4 @@
-package assignment2.exception;
+package assignments.exception;
 
 public class IsNumeric extends Exception{
     public IsNumeric(String message) {
