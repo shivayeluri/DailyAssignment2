@@ -1,4 +1,4 @@
-package assignment2;
+package assignment2.logic;
 
 public class Swapping {
     public void swapTwoNumbers(String[] inputNumbers){
