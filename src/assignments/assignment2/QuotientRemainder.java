@@ -1,4 +1,4 @@
-package assignment2;
+package assignment2.logic;
 
 public class QuotientRemainder {
     public void calculateQuotientRemainder(String[] inputNumbers){
